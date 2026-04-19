@@ -1,7 +1,7 @@
 // components/Home.jsx
 import React from 'react';
 import { Link } from 'react-router-dom';
-import heroImage from '../assets/hero-placeholder.jpg';
+import heroImage from '../assets/hero-placeholder.JPG';
 
 const Home = () => {
   return (
