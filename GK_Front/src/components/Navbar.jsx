@@ -40,7 +40,7 @@ const Navbar = () => {
       scrolled ? 'bg-dark/95 backdrop-blur-md border-b border-gold/30' : 'bg-dark/90 backdrop-blur-sm'
     }`}>
       <Link to="/" className="flex items-center gap-2">
-        <img src={logo} alt="Gurukrupa Wellness" className="h-10 w-auto" />
+        <img src={logo} alt="Gurukrupa Wellness" className="h-16 w-auto" />
         <div className="font-playfair text-xl text-gold tracking-wide">
           Gurukrupa <span className="italic text-gold-light">Wellness</span>
         </div>

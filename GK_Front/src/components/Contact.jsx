@@ -79,7 +79,7 @@ const Contact = () => {
                 <div className="w-12 h-12 bg-gold/10 rounded-xl flex items-center justify-center text-xl">📱</div>
                 <div>
                   <strong className="block text-dark text-sm">WhatsApp / Call</strong>
-                  <span className="text-brown/60 text-sm">+91 98765 43210</span>
+                  <span className="text-brown/60 text-sm">+91 95855 59585</span>
                 </div>
               </div>
               <div className="flex items-center gap-4 bg-white p-4 rounded-xl shadow-sm">
